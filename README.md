@@ -6,7 +6,7 @@
 - Det gør tekst overskuelig og struktureret.
 - Det kan bruges til dokumentation på GitHub.
 - Det fungerer godt til README filer.
-- Man kan nemt indsætte kode links billeder og citater.
+- Man kan nemt indsætte kode, links, billeder og citater.
 
 ## JavaScript for-loop eksempel
 
@@ -27,4 +27,4 @@ for (let i = 0; i < names.length; i++) {
 </nav>
 
 README.md
-   healer-monke.png
+ healer monke.png
