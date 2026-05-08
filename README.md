@@ -26,5 +26,4 @@ for (let i = 0; i < names.length; i++) {
   <a href="#">Kontakt</a>
 </nav>
 
-README.md
  healer monke.png
