@@ -10,6 +10,8 @@
 
 ## JavaScript for-loop eksempel
 
+## JavaScript for-loop eksempel
+
 ```javascript
 const names = ["Anna", "Oliver", "Emma"];
 
