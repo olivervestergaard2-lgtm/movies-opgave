@@ -27,5 +27,4 @@ for (let i = 0; i < names.length; i++) {
 </nav>
 
 README.md
-/images
-   healer-monk.png
+   healer-monke.png
