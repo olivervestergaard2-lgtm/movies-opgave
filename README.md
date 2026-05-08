@@ -27,3 +27,8 @@ for (let i = 0; i < names.length; i++) {
 </nav>
 
 ![Healer monk](healer-monke.png)
+
+## Citat
+
+> "Simplicity is the ultimate sophistication."
+> – Leonardo da Vinci
